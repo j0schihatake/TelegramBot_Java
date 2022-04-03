@@ -1,4 +1,4 @@
-package telegram.voise.bot;
+package j0schi.bot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
